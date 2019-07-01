@@ -10,7 +10,6 @@ class ChattyStudent < Student
     #   puts "Pick me!"
     # end
 
-    
     10.times do
       super
     end
